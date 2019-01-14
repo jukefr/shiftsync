@@ -1,0 +1,24 @@
+{
+  "name": "shiftsync",
+  "version": "1.0.0",
+  "description": "synchronise your configuration (bash, iTerm, Chrome etc.) files across multiple workstations",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jukefr/shiftsync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jukefr/shiftsync/issues"
+  },
+  "homepage": "https://github.com/jukefr/shiftsync#readme",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
